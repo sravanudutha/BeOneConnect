@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30198927239",
+    "firebase_url": "https://beoneconnect-640d9.firebaseio.com",
+    "project_id": "beoneconnect-640d9",
+    "storage_bucket": "beoneconnect-640d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30198927239:android:e26abab9a63c84e8af0d22",
+        "android_client_info": {
+          "package_name": "com.BeAbleHealth.BeOneConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30198927239-ph3jslp8t6uugb5r2qou449tcnmuj2gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxL55EhRyNpjVEKkIcSl4FKeQ_Q50Vk-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30198927239-ph3jslp8t6uugb5r2qou449tcnmuj2gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
